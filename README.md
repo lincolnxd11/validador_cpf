@@ -19,7 +19,7 @@ Este é um projeto de estudo, onde estou praticando lógica de programação e c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/validador_cpf.git
+git clone https://github.com/lincolnxd11/validador_cpf.git
 ```
 
 2. Acesse a pasta do projeto:
