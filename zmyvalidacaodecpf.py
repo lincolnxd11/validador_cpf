@@ -19,7 +19,7 @@ while True:
     cpf_repetido = cpf[0] * len(cpf)
 
     if cpf == cpf_repetido:
-        print('CPF inválido')
+        print(f'O CPF {cpf} é inválido.')
         continue
 
     # Cálculo do primeiro dígito
