@@ -1,11 +1,30 @@
- Validador de CPF
+# 🧾 Validador de CPF
 
-Este projeto é um programa em Python que valida CPFs. Ele verifica se o CPF informado é válido ou inválido de acordo com as regras oficiais do Cadastro de Pessoas Físicas (CPF) do Brasil.
+Este é um programa em Python que valida números de CPF, verificando se são válidos ou inválidos com base nos dígitos verificadores.
 
-## Funcionalidades
+---
 
-- Verifica se o CPF tem apenas números.
-- Verifica se o CPF tem 11 dígitos.
-- Verifica se todos os números não são iguais.
-- Calcula os dígitos verificadores e valida o CPF.
-- Permite validar múltiplos CPFs em sequência.
+## 🚀 Funcionalidades
+- Validação de CPF com 11 dígitos  
+- Identificação de CPFs inválidos (números repetidos)  
+- Cálculo automático dos dígitos verificadores  
+- Validação contínua (permite testar vários CPFs)  
+
+---
+
+## ▶️ Como usar
+
+1. Execute o programa:
+python validador_cpf.py
+2. Digite o CPF quando solicitado  
+3. O programa informará se o CPF é válido ou inválido  
+
+---
+
+## 🛠️ Tecnologias
+- Python  
+
+---
+
+## 👨‍💻 Autor
+Lincoln Gonçalves
